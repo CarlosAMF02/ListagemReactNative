@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "nome" : "Honda Civic 2.0",
+        "imagem" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Honda_Civic_coupe_%28facelift%29%2C_front_12.16.19.jpg/640px-2019_Honda_Civic_coupe_%28facelift%29%2C_front_12.16.19.jpg",
+        "descricao" : "Honda Civic ano 2020, sport",
+        "valor" : "R$ 90.000,00"
+    },
+    {
+        "id" : 2,
+        "nome" : "Fiat Uno",
+        "imagem" : "https://cdn.pixabay.com/photo/2017/09/12/02/54/car-2741112_960_720.jpg",
+        "descricao" : "Fiat Uno 2005, 4 portas",
+        "valor" : "R$ 15.000,00"
+    },
+    {
+        "id" : 3,
+        "nome" : "Volkswagem Polo",
+        "imagem" : "https://upload.wikimedia.org/wikipedia/commons/4/4a/2018_Volkswagen_Polo_R-Line_TSi_1.0_Front.jpg",
+        "descricao" : "Carro automático, painel digital e controles no volante",
+        "valor" : "R$ 90.000,00"
+    },
+    {
+        "id" : 4,
+        "nome" : "Tesla Model S Plaid",
+        "imagem" : "https://p0.piqsels.com/preview/695/148/880/vehicle-car-transportation-automobile-thumbnail.jpg",
+        "descricao" : "Carro elétrico do futuro",
+        "valor" : "R$ 1.750.000,00"
+    }
+]
